@@ -1,0 +1,16 @@
+{
+	"name": "frugue/ru"
+	,"version": "0.0.1"
+	,"description": "The Russian language pack for frugue.com"
+	,"type": "magento2-language"
+	,"homepage": "https://github.com/frugue/ru"
+	,"license": "MIT"
+	,"authors": [{
+		"name": "Dmitry Fedyuk"
+		,"email": "admin@mage2.pro"
+		,"homepage": "https://mage2.pro/users/dmitry_fedyuk"
+		,"role": "Developer"
+	}]
+	,"autoload": {"files": ["registration.php"]}
+	,"keywords": ["Magento 2"]
+}
